@@ -1,6 +1,6 @@
 # net_practice
 42 Network project Net practice
-Visit My youtube channel for a video : 
+Visit My youtube channel for a video : https://youtu.be/xoOjHY_3hxA
 
 You will need first to search for TCP/IP and subnetting a network also search for routers(routes and routing table),switches, hubs..
 All 10 Levels walk out :
